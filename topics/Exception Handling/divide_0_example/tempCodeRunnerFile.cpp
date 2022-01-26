@@ -1,0 +1,1 @@
+out << "\nDivision is:  " << result << endl

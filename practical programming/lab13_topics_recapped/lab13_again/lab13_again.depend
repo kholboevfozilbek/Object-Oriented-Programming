@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1642406044 source:c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\lab13_again\main.cpp
+	<iostream>
+	<list>
+	<string>
+	<sstream>
+	<stdexcept>
+	<iomanip>
+	"box.h"
+	"brick_box.h"
+	"tube_box.h"
+	"bubble_box.h"
+	"store.h"
+
+1642400272 c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\lab13_again\box.h
+	<iostream>
+	<string>
+	<sstream>
+	<stdexcept>
+	<iomanip>
+
+1642400390 c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\lab13_again\brick_box.h
+	<iostream>
+	<string>
+	<sstream>
+	<stdexcept>
+	<iomanip>
+	"box.h"
+
+1642404001 c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\lab13_again\tube_box.h
+	<iostream>
+	<string>
+	<sstream>
+	<stdexcept>
+	<iomanip>
+	<cmath>
+	"box.h"
+
+1642404025 c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\lab13_again\bubble_box.h
+	<iostream>
+	<string>
+	<sstream>
+	<stdexcept>
+	<iomanip>
+	<cmath>
+	"box.h"
+
+1642406006 c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\lab13_again\store.h
+	<iostream>
+	<list>
+	<string>
+	<sstream>
+	<stdexcept>
+	<iomanip>
+	"box.h"
+	"brick_box.h"
+	"tube_box.h"
+	"bubble_box.h"
+

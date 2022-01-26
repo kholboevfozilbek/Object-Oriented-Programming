@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1641749723 source:c:\users\acer\desktop\active\oop\lab\lab8_inheritance&&exception\ex2_clock\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<exception>
+	<iomanip>
+	"clock.h"
+	"alarm_clock.h"
+
+1641749699 c:\users\acer\desktop\active\oop\lab\lab8_inheritance&&exception\ex2_clock\clock.h
+	<iostream>
+	<string>
+	<stdexcept>
+	<iomanip>
+
+1641749887 c:\users\acer\desktop\active\oop\lab\lab8_inheritance&&exception\ex2_clock\alarm_clock.h
+	<iostream>
+	<string>
+	<exception>
+	"clock.h"
+	<list>
+

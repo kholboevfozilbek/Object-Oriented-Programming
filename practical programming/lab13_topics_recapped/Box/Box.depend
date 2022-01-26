@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1641909517 source:c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\box\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"box.h"
+	"brick_box.h"
+	"tube_box.h"
+	"bubble_box.h"
+	"store.h"
+
+1641909453 c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\box\box.h
+	<iostream>
+	<string>
+	<sstream>
+
+1641909489 c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\box\brick_box.h
+	<iostream>
+	<string>
+	<sstream>
+	"box.h"
+
+1641909489 c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\box\tube_box.h
+	<iostream>
+	<string>
+	<cmath>
+	"box.h"
+	<sstream>
+
+1641909489 c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\box\bubble_box.h
+	<iostream>
+	<string>
+	<cmath>
+	<sstream>
+	"box.h"
+
+1641909649 c:\users\acer\desktop\active\oop\lab\lab13_topics_recapped\box\store.h
+	<iostream>
+	<string>
+	<cmath>
+	"box.h"
+	"brick_box.h"
+	"tube_box.h"
+	"bubble_box.h"
+	<list>
+	<stdexcept>
+

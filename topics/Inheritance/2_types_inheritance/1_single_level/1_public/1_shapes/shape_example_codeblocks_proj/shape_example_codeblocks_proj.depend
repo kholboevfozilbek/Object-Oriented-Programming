@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638137340 source:c:\users\acer\desktop\oop\topics\inheritance\2_types_inheritance\1_single_level\1_public\1_shapes\shape_example_codeblocks_proj\main.cpp
+	<iostream>
+	"Shape.h"
+
+1638137583 c:\users\acer\desktop\oop\topics\inheritance\2_types_inheritance\1_single_level\1_public\1_shapes\shape_example_codeblocks_proj\shape.h
+	<iostream>
+
